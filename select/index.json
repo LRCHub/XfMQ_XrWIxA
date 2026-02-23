@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青と棘",
+  "base_artist": "KOYOINY",
+  "createdAt": "2026-02-23T12:52:35.027370Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青と棘",
+      "artist": "KOYOINY",
+      "has_synced": false,
+      "path": "select/pl_01_青と棘_KOYOINY.txt"
+    }
+  ]
+}
